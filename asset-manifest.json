@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/jog/static/css/main.48f99a23.chunk.css",
+    "main.js": "/jog/static/js/main.5d40845b.chunk.js",
+    "main.js.map": "/jog/static/js/main.5d40845b.chunk.js.map",
+    "runtime-main.js": "/jog/static/js/runtime-main.f88f7df5.js",
+    "runtime-main.js.map": "/jog/static/js/runtime-main.f88f7df5.js.map",
+    "static/js/2.8b8ea398.chunk.js": "/jog/static/js/2.8b8ea398.chunk.js",
+    "static/js/2.8b8ea398.chunk.js.map": "/jog/static/js/2.8b8ea398.chunk.js.map",
+    "index.html": "/jog/index.html",
+    "precache-manifest.aed3a2dc8ae0d48a931982bf04d97317.js": "/jog/precache-manifest.aed3a2dc8ae0d48a931982bf04d97317.js",
+    "service-worker.js": "/jog/service-worker.js",
+    "static/css/main.48f99a23.chunk.css.map": "/jog/static/css/main.48f99a23.chunk.css.map",
+    "static/js/2.8b8ea398.chunk.js.LICENSE.txt": "/jog/static/js/2.8b8ea398.chunk.js.LICENSE.txt",
+    "static/media/bear.svg": "/jog/static/media/bear.c9a3322a.svg",
+    "static/media/bearPink.png": "/jog/static/media/bearPink.145db14e.png",
+    "static/media/filter.svg": "/jog/static/media/filter.1e87aaad.svg",
+    "static/media/logo.svg": "/jog/static/media/logo.f0b7b098.svg",
+    "static/media/logoGreen.png": "/jog/static/media/logoGreen.2db1cfb8.png",
+    "static/media/sad.svg": "/jog/static/media/sad.f21f2755.svg",
+    "static/media/App.css": "/jog/static/media/sfui.0cfc29e3.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f88f7df5.js",
+    "static/js/2.8b8ea398.chunk.js",
+    "static/css/main.48f99a23.chunk.css",
+    "static/js/main.5d40845b.chunk.js"
+  ]
+}
