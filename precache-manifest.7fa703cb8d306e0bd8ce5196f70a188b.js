@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b2ce227f3d21549441d5563f3eeb755",
+    "revision": "0f2dbaaac8c83127154c55f3199b074a",
     "url": "/jog/index.html"
   },
   {
-    "revision": "d0bac0e231daf8aa7c21",
-    "url": "/jog/static/css/main.48f99a23.chunk.css"
+    "revision": "f47f6b36af454e17d2b3",
+    "url": "/jog/static/css/main.a2563de3.chunk.css"
   },
   {
-    "revision": "8fffeb5d274342e9c661",
-    "url": "/jog/static/js/2.8b8ea398.chunk.js"
+    "revision": "3a05de2b4a89b06ea487",
+    "url": "/jog/static/js/2.94fcc3c8.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/jog/static/js/2.8b8ea398.chunk.js.LICENSE.txt"
+    "revision": "bbee919d8888a17953b5bb98359759ba",
+    "url": "/jog/static/js/2.94fcc3c8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d0bac0e231daf8aa7c21",
-    "url": "/jog/static/js/main.5d40845b.chunk.js"
+    "revision": "f47f6b36af454e17d2b3",
+    "url": "/jog/static/js/main.c5bebf23.chunk.js"
   },
   {
     "revision": "f1f8b33d3f848fa1b89e",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1e87aaad6cb67b02229a810920e6af16",
     "url": "/jog/static/media/filter.1e87aaad.svg"
+  },
+  {
+    "revision": "b575c000bd609cf4aa78c24f34d82a8c",
+    "url": "/jog/static/media/jog.b575c000.svg"
   },
   {
     "revision": "f0b7b098d2d04b5e341087c0c34a37dd",
