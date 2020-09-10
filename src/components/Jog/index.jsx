@@ -1,6 +1,6 @@
 import React from 'react';
-import jog from '../../assets/jog.svg';
-import './styles.css';
+import jog from 'assets/jog.svg';
+import 'components/Jog/styles.css';
 import moment from 'moment';
 
 const Jog = ({

@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
-import sad from "../../assets/sad.svg";
-import getJogs from "../../api/getJogs";
-import Jog from "../../components/Jog";
+import sad from "assets/sad.svg";
+import getJogs from "api/getJogs";
+import Jog from "components/Jog";
 
 const Jogs = () => {
   const [jogs, setJogs] = useState(null);

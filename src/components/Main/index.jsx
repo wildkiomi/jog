@@ -1,11 +1,11 @@
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
-import Jogs from "../../pages/Jogs/";
-import Info from "../../pages/Info/";
-import Contact from "../../pages/Contact/";
-import Login from "../../pages/Login/";
-import MobileNavigation from "../../pages/MobileNavigation/";
-import './styles.css';
+import Jogs from "pages/Jogs/";
+import Info from "pages/Info/";
+import Contact from "pages/Contact/";
+import Login from "pages/Login/";
+import MobileNavigation from "pages/MobileNavigation/";
+import 'components/Main/styles.css';
 
 const Main = () => {
 
