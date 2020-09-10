@@ -1,0 +1,14 @@
+main {
+  width: 100%;
+  height: 908px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 375pt) {
+  main {
+    max-height: 590pt;
+  }
+}

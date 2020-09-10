@@ -1,0 +1,60 @@
+.info {
+  width: 89px;
+  height: 43px;
+  color: #7ed321;
+  font-family: SFUIText;
+  font-size: 36px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+}
+
+.lorem_ipsum {
+  width: 614px;
+  height: 191px;
+  font-family: SFUIText;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.71;
+  letter-spacing: normal;
+}
+
+.it_is_long {
+  width: 614px;
+  height: 191px;
+  font-family: SFUIText;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.71;
+  letter-spacing: normal;
+}
+
+@media (max-width: 375pt) {
+  .info {
+    margin: 24pt 0 0 14pt;
+    font-size: 25pt;
+    align-self: flex-start;
+  }
+  .lorem_ipsum {
+    width: 325pt;
+    height: 308pt;
+    font-size: 12pt;
+    line-height: 24pt;
+    margin: 6pt 25pt 0 25pt;
+  }
+
+  .it_is_long {
+    width: 325pt;
+    height: 235pt;
+    font-size: 12pt;
+    line-height: 24pt;
+    margin: 0 25pt 0 25pt;
+  }
+}

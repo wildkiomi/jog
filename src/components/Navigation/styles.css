@@ -1,0 +1,54 @@
+.navigation {
+  height: 100%;
+}
+
+.navigation_ul {
+  list-style: none;
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.navigation_ul li a {
+  width: 40px;
+  height: 16px;
+  margin-right: 50px;
+  color: white;
+  font-family: SFUIText;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  text-decoration: none;
+}
+
+.navigation_ul li a:active {
+  text-decoration: underline;
+}
+
+@media (max-width: 375pt) {
+  .navigation {
+    margin: 107pt 102pt 333pt 130pt;
+    width: 170pt;
+    height: 150pt;
+  }
+
+  .navigation_ul {
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .navigation_ul li a {
+    color: rgb(151, 151, 151);
+    font-size: 25pt;
+    margin: 0;
+  }
+}

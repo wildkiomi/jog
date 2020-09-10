@@ -1,0 +1,48 @@
+.sad {
+  width: 150px;
+  height: 151px;
+  object-fit: contain;
+}
+
+.no_jogs {
+  width: 182px;
+  height: 58px;
+  color: #b0b0b0;
+  font-family: SFUIText;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.21;
+  letter-spacing: normal;
+  text-align: center;
+}
+
+.create_first_jog {
+  width: 249px;
+  height: 60px;
+  border-radius: 36px;
+  border: solid 3px #e990f9;
+  background-color: unset;
+}
+
+.create_first_jog span {
+  width: 182px;
+  color: #e990f9;
+  height: 21px;
+  font-family: SFUIText;
+  font-size: 18px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+}
+
+@media (max-width: 375pt) {
+  .sad {
+    height: 86pt;
+    width: 85pt;
+    margin: 0;
+  }
+}

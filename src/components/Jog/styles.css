@@ -1,0 +1,10 @@
+.jog_container {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}
+
+.jog_logo {
+    height: 87px;
+    width: 87px;
+}

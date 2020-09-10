@@ -1,10 +1,11 @@
 import React, { useCallback, useState, useEffect } from 'react';
-import logo from '../assets/logo.svg';
-import logoGreen from '../assets/logoGreen.png';
-import filter from '../assets/filter.svg';
-import menu from '../assets/menu.png';
-import Navigation from './Navigation';
+import logo from '../../assets/logo.svg';
+import logoGreen from '../../assets/logoGreen.png';
+import filter from '../../assets/filter.svg';
+import menu from '../../assets/menu.png';
+import Navigation from '../Navigation/';
 import { Link, useHistory } from 'react-router-dom';
+import './styles.css';
 
 const Header = ({
     location
